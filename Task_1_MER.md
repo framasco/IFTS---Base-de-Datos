@@ -36,6 +36,7 @@ Declare cualquier suposición que haga sobre los atributos y claves primarias us
     * **proyecto_id**: Clave foránea (FK), que se relaciona con el proyecto actual del empleado.
     * **ofi_id**: Clave foránea (FK), que se relaciona con la oficina asignada al empleado.
     * **dep_id**: Clave foránea (FK), que se relaciona con el departamento al que pertenece el empleado.
+    * **numero_celular**: , Atributo para almacenar el telefono del empleado
 
 * **proyecto**
     * **proyecto_id**: Clave primaria (PK), identificador único para cada proyecto.
