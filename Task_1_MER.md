@@ -88,4 +88,4 @@ Declare cualquier suposición que haga sobre los atributos y claves primarias us
 ### Diagrama E/R
 Aquí puedes encontrar el diagrama E/R que acompaña esta resolución.
 
-![Diagrama E/R del modelo de datos de la compañía](Task_1_MER_v2.png)
+![Diagrama E/R del modelo de datos de la compañía](Task_1_MER_v2.PNG)
